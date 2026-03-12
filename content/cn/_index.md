@@ -13,7 +13,7 @@ cascade:
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/2026-03/2026-03-11" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/2026-03/2026-03-12" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/blog/weekly" >}}📊 浏览 AI 周报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}🤝 商务合作交流{{< /hextra/hero-badge >}}
 </div>
@@ -36,12 +36,12 @@ cascade:
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/2026-03/2026-03-11" title="AI资讯日报 2026/03/11" subtitle="英伟达投资Thinking Machines达500亿美金，LeCun创办AMI种子轮融10.3亿 Figure机器人自主整理客厅，谷歌发布全模态嵌入模型Gemini Embedding 2 Mini" icon="calendar" >}}
+{{< card link="/2026-03/2026-03-12" title="AI资讯日报 2026/03/12" subtitle="Replit Agent 4上线估值飙至90亿，Perplexity推全栈API、AI电脑及企业版 谷歌发布Gemini 3.1 Flash Lite，Claude办公插件升级Skills系统 Col" icon="calendar" >}}
+  {{< card link="/2026-03/2026-03-11" title="AI资讯日报 2026/03/11" subtitle="英伟达投资Thinking Machines达500亿美金，LeCun创办AMI种子轮融10.3亿 Figure机器人自主整理客厅，谷歌发布全模态嵌入模型Gemini Embedding 2 Mini" icon="calendar" >}}
   {{< card link="/2026-03/2026-03-10" title="AI资讯日报 2026/03/10" subtitle="微软Phi-4多模态、腾讯推出Penguin-VL视觉语言模型 果蝇全脑12.5万神经元数字化上传，Claude一小时破解三十年难题 NVIDIA报告企业AI大规模部署，Gartner预测支出达2.5" icon="calendar" >}}
   {{< card link="/2026-03/2026-03-09" title="AI资讯日报 2026/03/09" subtitle="Claude Code隐藏开关提速600倍 Gauss智能体五天跑通菲尔兹奖级证明，生成20万行代码 00后用AI编程10天获投3000万；亚马逊机器人部门大裁员 阿里曝AI训练中自主越狱挖矿；Cla" icon="calendar" >}}
   {{< card link="/2026-03/2026-03-08" title="AI资讯日报 2026/03/08" subtitle="GPT-5.4编码能力跃升，表格处理上线 谷歌AI全线升级，商汤发布像素原生模型NEO-unify Parallel-Probe降低推理延迟，GOG用图遍历替代RAG Nature曝13款AI存在学术" icon="calendar" >}}
   {{< card link="/2026-03/2026-03-07" title="AI资讯日报 2026/03/07" subtitle="ChatGPT5.4支持百万上下文,Kling3.0捕捉面部神态,Claude上线企业市场 AlignVAR超分推理快扩散模型10倍,WebChain发布最大网页交互数据集 智能体首入政府报告,软银4" icon="calendar" >}}
-  {{< card link="/2026-03/2026-03-06" title="AI资讯日报 2026/03/06" subtitle="GPT-5.4发布,原生桌面操控,百万上下文,永久记忆,定价引争议 苹果M5芯片AI性能涨四倍,MoE跳过88%专家保97%性能 中国五年规划提AI超50次,Block引AI裁员近半,内存价飙369%" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ cascade:
 初次访问？请先阅读 [AI 周报](/blog/weekly/)。它可以帮你快速梳理近期行业最重要的变化，避免陷入信息碎片的海洋。
 
 ### 2. 保持每日同步
-如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-03/2026-03-11)。每天仅需 5 分钟，即可同步全球 AI 节奏。
+如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-03/2026-03-12)。每天仅需 5 分钟，即可同步全球 AI 节奏。
 
 ### 3. 探索深度实践
 了解本站初衷，并在 [博客](/blog/) 中获取系统的 AI 工具应用与效率提升指南。
