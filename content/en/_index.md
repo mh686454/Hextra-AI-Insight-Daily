@@ -13,7 +13,7 @@ Hexi 2077's AI News Hub
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-15" >}}🚀 Read Today's News{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-16" >}}🚀 Read Today's News{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/en/blog/weekly" >}}📊 Browse the AI Weekly{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}🤝 Business & Partnership Inquiries{{< /hextra/hero-badge >}}
 </div>
@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-03/2026-03-15" title="AI News Daily 2026/03/15" subtitle="Claude百万token上下文全面开放，支持600张图片 360发布安全龙虾系列，阿里开源Qwen3-ASR语音模型 科技裁员达4.5万人，Meta模型Avocado延期且倾向闭源 OpenViki" icon="calendar" >}}
+{{< card link="/en/2026-03/2026-03-16" title="AI News Daily 2026/03/16" subtitle="微软英伟达OpenAI同日发布新品，千亿融资刷新纪录 央视315曝光AI搜索投毒黑产，伊朗袭击阿布扎比算力中心 月之暗面估值破千亿寻求新融资，英伟达GTC2026大会震撼开幕 中国十五五规划定调AI为" icon="calendar" >}}
+  {{< card link="/en/2026-03/2026-03-15" title="AI News Daily 2026/03/15" subtitle="Claude百万token上下文全面开放，支持600张图片 360发布安全龙虾系列，阿里开源Qwen3-ASR语音模型 科技裁员达4.5万人，Meta模型Avocado延期且倾向闭源 OpenViki" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-14" title="AI News Daily 2026/03/14" subtitle="Gemini手机跨App自动执行任务，Claude插件实现跨应用协作与动态图表 谷歌地图十年最大升级，Anthropic亿元建生态，老板电器发AI烹饪眼镜 LLM幻觉根源被理论拆解，清华腾讯GTR框架" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-13" title="AI News Daily 2026/03/13" subtitle="爱诗科技C轮融资发布PixVerse R1,腾讯鹅虾上线,华为昇腾Claw一体机发布 LEVI低成本进化框架反超对手,谷歌用Gemini挖掘旧新闻预报山洪 Anthropic起诉特朗普政府禁用Clau" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-12" title="AI News Daily 2026/03/12" subtitle="Replit Agent 4上线估值飙至90亿，Perplexity推全栈API、AI电脑及企业版 谷歌发布Gemini 3.1 Flash Lite，Claude办公插件升级Skills系统 Col" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-11" title="AI News Daily 2026/03/11" subtitle="英伟达投资Thinking Machines达500亿美金，LeCun创办AMI种子轮融10.3亿 Figure机器人自主整理客厅，谷歌发布全模态嵌入模型Gemini Embedding 2 Mini" icon="calendar" >}}
-  {{< card link="/en/2026-03/2026-03-10" title="AI News Daily 2026/03/10" subtitle="微软Phi-4多模态、腾讯推出Penguin-VL视觉语言模型 果蝇全脑12.5万神经元数字化上传，Claude一小时破解三十年难题 NVIDIA报告企业AI大规模部署，Gartner预测支出达2.5" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 New here? Start with the [AI Weekly](/en/blog/weekly/). It helps you quickly understand the most important industry shifts without getting lost in fragmented information.
 
 ### 2. Stay in Daily Sync
-If you want to keep up with the cutting edge, jump straight into the [AI Daily Archive](/en/2026-03/2026-03-15). Just 5 minutes a day keeps you aligned with the global AI pulse.
+If you want to keep up with the cutting edge, jump straight into the [AI Daily Archive](/en/2026-03/2026-03-16). Just 5 minutes a day keeps you aligned with the global AI pulse.
 
 ### 3. Explore Deeper Practice
 Learn why this site exists, then visit the [Blog](/en/blog/) for structured guides on AI tools, workflows, and productivity improvement.
