@@ -13,7 +13,7 @@ Hexi 2077's AI News Hub
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-31" >}}🚀 Read Today's News{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-04/2026-04-01" >}}🚀 Read Today's News{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/en/blog/weekly" >}}📊 Browse the AI Weekly{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}🤝 Business & Partnership Inquiries{{< /hextra/hero-badge >}}
 </div>
@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-03/2026-03-31" title="AI News Daily 2026/03/31" subtitle="Qwen3.5-Omni全模态发布，Claude Code获自动模式与桌面操控，GPT-5.4 Pro解析论文图表 编码代理处理3万亿token碾压GPT-5基线，ARC-AGI-3暴露顶级模型推理短" icon="calendar" >}}
+{{< card link="/en/2026-04/2026-04-01" title="AI News Daily 2026/04/01" subtitle="OpenAI融资1220亿美元估值达8520亿，联手亚马逊建Agent基建 Claude Code源码泄露曝光三层反蒸馏机制及核心架构 白宫发布联邦AI治理框架，统一凌驾地方监管 智谱开源0.9B参数" icon="calendar" >}}
+  {{< card link="/en/2026-03/2026-03-31" title="AI News Daily 2026/03/31" subtitle="Qwen3.5-Omni全模态发布，Claude Code获自动模式与桌面操控，GPT-5.4 Pro解析论文图表 编码代理处理3万亿token碾压GPT-5基线，ARC-AGI-3暴露顶级模型推理短" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-30" title="AI News Daily 2026/03/30" subtitle="Claude 5.0内测90分钟破Linux漏洞，付费用户翻倍 推理模型API实际成本与标价偏差最高达28倍 Arm发布数据中心芯片，深度伪造冲击战争舆论 微软VibeVoice、DragNeXt等多" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-29" title="AI News Daily 2026/03/29" subtitle="Claude Mythos、Voxtral TTS等新模型密集发布 谷歌TurboQuant论文涉嫌抄袭造假，曾致内存股暴跌九百亿 AI冲击九百万高技能岗位，Anthropic工程师已转型项目管理者 " icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-28" title="AI News Daily 2026/03/28" subtitle="GLM5.1全面超越前代，Gemini支持导入竞品数据 IBM发布智能体工作流综述，Claude查论文提升超参搜索3.2% 软银400亿投OpenAI，字节阿里转投华为芯片 NeurIPS封禁中国机构" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-27" title="AI News Daily 2026/03/27" subtitle="Gemini 3.1 Flash Live与Lyria 3 Pro发布，谷歌TurboQuant压缩算法冲击内存行业 CapCut无时间线编辑器、阿里Qoder多智能体编程、钉钉悟空AI密集上线 Cl" icon="calendar" >}}
-  {{< card link="/en/2026-03/2026-03-26" title="AI News Daily 2026/03/26" subtitle="英伟达Nemotron Nano 12B、谷歌Lyria 3、TurboQuant及即梦3.0Pro等新模型密集发布 LeCun团队LeWM仅1500万参数实现48倍规划提速，MIT提出模型过度自信检" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 New here? Start with the [AI Weekly](/en/blog/weekly/). It helps you quickly understand the most important industry shifts without getting lost in fragmented information.
 
 ### 2. Stay in Daily Sync
-If you want to keep up with the cutting edge, jump straight into the [AI Daily Archive](/en/2026-03/2026-03-31). Just 5 minutes a day keeps you aligned with the global AI pulse.
+If you want to keep up with the cutting edge, jump straight into the [AI Daily Archive](/en/2026-04/2026-04-01). Just 5 minutes a day keeps you aligned with the global AI pulse.
 
 ### 3. Explore Deeper Practice
 Learn why this site exists, then visit the [Blog](/en/blog/) for structured guides on AI tools, workflows, and productivity improvement.
